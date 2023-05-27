@@ -1,0 +1,125 @@
+body {
+    background-color: hsl(0deg 0% 75.29%);
+}
+
+.heading {
+    margin: 5rem 2rem 0rem;
+    border: 10px solid hsl(210deg 16.67% 21.18%);
+    border-radius: 102px;
+    border-right-color: hsl(0deg 0% 95.29%);
+    border-left-color: hsl(0deg 0% 95.29%);
+}
+
+.heading_child {
+    border: 11px solid hsl(209.03deg 12.16% 50%);
+    border-radius: 102px;
+    border-right-color: hsl(0deg 0% 63.14%);
+    border-left-color: hsl(0deg 0% 63.14%);
+    background-color: #fff;
+    margin: 0px;
+}
+
+.hp-text {
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    color: red;
+}
+
+.row_alkaline {
+    border: none;
+    background-color: hsl(203.05deg 92.69% 42.94%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_thirteen {
+    border: none;
+    background-color: hsl(200.44deg 100% 44.31%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_twelve {
+    border: none;
+    background-color: hsl(200.79deg 100% 44.71%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Eleven {
+    border: none;
+    background-color: hsl(200.21deg 81.66% 55.1%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Ten {
+    border: none;
+    background-color: hsl(201.71deg 80.85% 63.14%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Nine {
+    border: none;
+    background-color: hsl(206.81deg 100% 72.35%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Eight {
+    border: none;
+    background-color: hsl(203.75deg 75% 74.9%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Neutral {
+    border: none;
+    background-color: hsl(165.84deg 100% 34.9%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Six {
+    border: none;
+    background-color: hsl(165.84deg 100% 34.9%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Five {
+    border: none;
+    background-color: hsl(336.18deg 77.27% 82.75%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Four {
+    border: none;
+    background-color: hsl(336.43deg 79.25% 79.22%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Three {
+    border: none;
+    background-color: hsl(338.65deg 83.87% 75.69%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Two {
+    border: none;
+    background-color: hsl(338.68deg 84.62% 71.96%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_One {
+    border: none;
+    background-color: hsl(339.85deg 85.09% 68.43%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+.row_Acid {
+    border: none;
+    background-color: hsl(340.52deg 87.5% 65.49%);
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+}
+
+.parent_row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2rem 2rem 0rem;
+}
